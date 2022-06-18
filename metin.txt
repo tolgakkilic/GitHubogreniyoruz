@@ -1,1 +1,3 @@
-Arkadaşlar hoşgeldiniz yazılım ekibimize.
+Arkadaşlar hoşgeldiniz yazılım ekibimize
+
+Bu eğitim içerisinde C# dili ile yazılım geliştirilecek olup core platformu üzeriinde çalışılacaktır.
